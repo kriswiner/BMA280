@@ -1,0 +1,1 @@
+Simple C++ library for the BMA280; a library is a useful format in the case that multiple sensors are used in an application like for a [sensor tile](https://hackaday.io/project/19649-stm32l4-sensor-tile).
