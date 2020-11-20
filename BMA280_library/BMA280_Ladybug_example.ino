@@ -119,7 +119,7 @@ void loop() {
        
     }
   
-    // Serial print and/or display at 2Hz rate independent of data rates
+    // Serial print and/or display at 2 Hz rate independent of data rates
     delt_t = millis() - count;
     if (delt_t > 500) { // update serial once per half-second independent of read rate
    
